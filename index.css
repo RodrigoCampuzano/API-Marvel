@@ -1,0 +1,117 @@
+body{
+    background-color: black;
+}
+
+#container{
+    margin-left: 15%;
+}
+
+#divname{
+    text-align: center;
+    width: 30%;
+    margin-top: 15px;
+    display: flexbox;
+    margin-left: 35%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    background-color: rgb(71, 209, 255);
+}
+
+#div2{
+    width: 80%;
+    margin-left: 50px;
+    margin-top: 15px;
+    display: block;
+    margin-left: 5px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    background-color: gray;
+}
+
+#div3{
+    width: 50%;
+    margin-top: 15px;
+    margin-left:25%;
+    display: flexbox;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    background-color: rgb(147, 32, 32);
+}
+
+#div4{
+    width: 50%;
+    margin-top: 15px;
+    display: flexbox;
+    margin-left: 25%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    background-color: rgb(39, 142, 207);
+}
+
+#div5{
+    width: 50%;
+    margin-top: 15px;
+    display: flexbox;
+    margin-left: 25%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    background-color: rgb(202, 202, 24);
+}
+
+#div6{
+    width: 50%;
+    left: 50%;
+    margin-top: 15px;
+    display: flexbox;
+    margin-left: 25%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    background-color: rgb(130, 96, 214);
+}
+
+#pcreators{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pcomics{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pevents{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pseries{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pstories{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#img{
+    width: 200px;
+}
+
+#generar{
+    margin-left: 42%;
+    background-color: red;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#cargar{
+    background-color: blue;
+    font-size: 20px;
+    border-radius: 5px;
+}
